@@ -1,0 +1,5 @@
+Candidato, Partido, Dignidad Modulo De registro de Partidos Politicos y Candidatos(Santiago Apolo)
+Persona Votante Modulo registro de votantes (Gabriel Espinoza) 
+Cuenta y Rol Modulo de Gestion de Cuentas (Walter Yaguana)
+Padron Electoral , Lugar, Eleccion Modulo de creacion de Eleccion Electoral(Andy Apolo)
+Papeleta y Voto Modulo de Creacion de Paspeletas y Registro de votos(Miguel Apolo) 
